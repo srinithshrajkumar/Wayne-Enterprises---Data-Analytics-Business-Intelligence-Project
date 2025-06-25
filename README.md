@@ -45,13 +45,11 @@ A comprehensive analytics platform that converts Wayne Enterprises' complex busi
 <tr>
 <td align="center">
 <h3>🔒 Operations & Security</h3>
-<img src="screenshots/operations-dashboard.png" alt="Operations Dashboard" width="300"/>
 <br>
 <em>Security incidents • Supply chain • Quality metrics</em>
 </td>
 <td align="center">
 <h3>💰 Financial Performance</h3>
-<img src="screenshots/financial-dashboard.png" alt="Financial Dashboard" width="300"/>
 <br>
 <em>Revenue tracking • Profit analysis • Growth trends</em>
 </td>
@@ -59,13 +57,11 @@ A comprehensive analytics platform that converts Wayne Enterprises' complex busi
 <tr>
 <td align="center">
 <h3>🌱 Sustainability Metrics</h3>
-<img src="screenshots/sustainability-dashboard.png" alt="Sustainability Dashboard" width="300"/>
 <br>
 <em>Carbon footprint • Environmental ROI • Compliance</em>
 </td>
 <td align="center">
 <h3>👥 Workforce Analytics</h3>
-<img src="screenshots/workforce-dashboard.png" alt="Workforce Dashboard" width="300"/>
 <br>
 <em>Retention • Diversity • Productivity analysis</em>
 </td>
